@@ -10,3 +10,11 @@ Now that you have been equipped with the skills and the tools to use location da
 ## 1) Introduction/Buisness Problem
 
 The purpose of this study is to help a restaurant owner in planning to open a new restaurant in Lynchburg, VA to choose the best location to have a steady flow of customers and increase profit for the buisness. We will also observe competitors in the area and locate the best area to win over those customers.
+
+## 2) Downloading and Prepping Data
+
+To provide the necessary information for the buisness owner I'm combining Lynhcburg's Census that contains population, average income per neighborhood along with Lynchburg's shapefile and Foursquare API to collect information on competitors in the same negihborhood. 
+
+Lynchburg's Census data is publicly avaiable at this website: https://www.census.gov/quickfacts/lynchburgcityvirginiacounty
+
+Lynchburg's Neighborhood's shapefile is publickly avaible at this website: https://www.lynchburgva.gov/available-data-formats
